@@ -6,4 +6,4 @@ You can click and check put each story as well
 Its available online since the data is cached
 
 ## NewsApp Preview
-![Chatbot](./View.png)
+<img src="./View.png" alt="NewsApp" width="400"/>
